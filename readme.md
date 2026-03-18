@@ -114,7 +114,7 @@ Trabajo diseñando y construyendo soluciones de alto impacto, desde APIs robusta
 ## 🤝 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Luis%20Ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-ramos-calla-363b04151/)
-[![Email](https://img.shields.io/badge/Email-contacto%40pedroluis.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrorc2018@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pedrorc2018@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrorc2018@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-pedroluis.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://luisdev21.netlify.app/)
 
 ---
