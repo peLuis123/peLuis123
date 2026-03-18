@@ -74,12 +74,12 @@ Trabajo diseñando y construyendo soluciones de alto impacto, desde APIs robusta
 
 ## 🚀 Proyectos importantes
 
-| Proyecto                | Descripción                                                             | Stack                           | Demo/Repo                                                        |
-| ----------------------- | ----------------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------- |
-| **CryptoDash**          | Dashboard cripto con métricas en tiempo real y visualización de mercado | Vue.js, Node.js, WebSocket APIs | [Ver proyecto](https://github.com/peLuis123/cryptodash)          |
-| **CryptoShop**          | E-commerce con pagos en crypto (TRX) y flujo de compra optimizado       | React, Express, TronWeb         | [Ver proyecto](https://github.com/peLuis123/cryptoshop)          |
-| **Stripe Payments API** | Sistema de pagos desacoplado y escalable con documentación Swagger      | NestJS, Stripe, MySQL           | [Ver proyecto](https://github.com/peLuis123/stripe-payments-api) |
-| **VideoGames Platform** | Plataforma moderna para catálogo, gestión y experiencia gamer           | React, Node.js, MongoDB         | [Ver proyecto](https://github.com/peLuis123/videogames-platform) |
+| Proyecto                | Descripción                                                             | Stack                           | Demo/Repo                                                |
+| ----------------------- | ----------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------- |
+| **CryptoDash**          | Dashboard cripto con métricas en tiempo real y visualización de mercado | Vue.js, Node.js, WebSocket APIs | [Ver proyecto](https://github.com/peLuis123/cryptodash)  |
+| **CryptoShop**          | E-commerce con pagos en crypto (TRX) y flujo de compra optimizado       | React, Express, TronWeb         | [Ver proyecto](https://github.com/peLuis123/cryptoshop)  |
+| **Stripe Payments API** | Sistema de pagos desacoplado y escalable con documentación Swagger      | Express, Stripe                 | [Ver proyecto](https://github.com/peLuis123/Stripe_Back) |
+| **VideoGames Platform** | Plataforma moderna para catálogo, gestión y experiencia gamer           | React, Node.js, MongoDB         | [Ver proyecto](https://github.com/peLuis123/videogames)  |
 
 > Si algún repositorio aún es privado o está en desarrollo, puedo reemplazar los enlaces por demos públicas cuando quieras.
 
@@ -113,9 +113,9 @@ Trabajo diseñando y construyendo soluciones de alto impacto, desde APIs robusta
 
 ## 🤝 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Luis%20Ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroluisramos)
-[![Email](https://img.shields.io/badge/Email-contacto%40pedroluis.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@pedroluis.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pedroluis.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://pedroluis.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Luis%20Ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-ramos-calla-363b04151/)
+[![Email](https://img.shields.io/badge/Email-contacto%40pedroluis.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrorc2018@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pedroluis.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://luisdev21.netlify.app/)
 
 ---
 
