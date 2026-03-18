@@ -2,9 +2,9 @@
 
 # Pedro Luis Ramos Calla
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Fullstack+Developer+%7C+Backend+Focused+%7C+Web3+Builder;Scalable+APIs+%C2%B7+Crypto+Payments+%C2%B7+VPS+Deployments;Building+real+products+for+global+teams)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Desarrollador+Fullstack+%7C+Enfoque+Backend+%7C+Web3;APIs+escalables+%C2%B7+Pagos+cripto+%C2%B7+Despliegues+en+VPS;Construyendo+productos+reales+para+equipos+globales)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/peLuis123?style=for-the-badge&logo=github&label=Followers)](https://github.com/peLuis123)
+[![GitHub followers](https://img.shields.io/github/followers/peLuis123?style=for-the-badge&logo=github&label=Seguidores)](https://github.com/peLuis123)
 [![Profile views](https://komarev.com/ghpvc/?username=peLuis123&style=for-the-badge&color=0ea5e9)](https://github.com/peLuis123)
 
 </div>
@@ -74,10 +74,10 @@ Trabajo diseñando y construyendo soluciones de alto impacto, desde APIs robusta
 
 ## 🚀 Proyectos importantes
 
-| Proyecto                | Descripción                                                             | Stack                           | Demo/Repo                                                |
+| Proyecto                | Descripción                                                             | Stack                           | Demo/Repositorio                                         |
 | ----------------------- | ----------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------- |
 | **CryptoDash**          | Dashboard cripto con métricas en tiempo real y visualización de mercado | Vue.js, Node.js, WebSocket APIs | [Ver proyecto](https://github.com/peLuis123/cryptodash)  |
-| **CryptoShop**          | E-commerce con pagos en crypto (TRX) y flujo de compra optimizado       | React, Express, TronWeb         | [Ver proyecto](https://github.com/peLuis123/cryptoshop)  |
+| **CryptoShop**          | E-commerce con pagos en cripto (TRX) y flujo de compra optimizado       | React, Express, TronWeb         | [Ver proyecto](https://github.com/peLuis123/cryptoshop)  |
 | **Stripe Payments API** | Sistema de pagos desacoplado y escalable con documentación Swagger      | Express, Stripe                 | [Ver proyecto](https://github.com/peLuis123/Stripe_Back) |
 | **VideoGames Platform** | Plataforma moderna para catálogo, gestión y experiencia gamer           | React, Node.js, MongoDB         | [Ver proyecto](https://github.com/peLuis123/videogames)  |
 
@@ -89,22 +89,22 @@ Trabajo diseñando y construyendo soluciones de alto impacto, desde APIs robusta
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=peLuis123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peLuis123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=peLuis123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peLuis123&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=peLuis123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=peLuis123&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 
 </div>
 
 ---
 
-## 🎯 Focus actual
+## 🎯 Enfoque actual
 
 - Arquitectura backend con patrones escalables y mantenibles
 - Integraciones Web3 para pagos y casos de uso reales
 - Optimización de performance y seguridad en entornos productivos
 
-### 📚 Currently learning
+### 📚 Aprendiendo actualmente
 
 - Diseño de sistemas distribuidos para productos de alto tráfico
 - Mejores prácticas de smart contracts y auditoría de seguridad
@@ -121,6 +121,6 @@ Trabajo diseñando y construyendo soluciones de alto impacto, desde APIs robusta
 
 <div align="center">
 
-### "Build for impact, scale with confidence."
+### "Construir con impacto, escalar con confianza."
 
 </div>
